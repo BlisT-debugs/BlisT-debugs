@@ -7,7 +7,7 @@
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-raj-944811219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram]([https://path-to-your-instagram-image](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white))](https://instagram.com/_.the_arpan._)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_.the_arpan._)
 
 ## Languages and Tools:
 
